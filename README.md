@@ -1,1 +1,1 @@
-# EdTech_College_Data_Manager
+# EdTech College Data Manager
