@@ -15,6 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bunifu.Charts.WinForms" Version="2.0.0" />
+    <PackageReference Include="Bunifu.UI.WinForms" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="My Project\Application.Designer.vb">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
